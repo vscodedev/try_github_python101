@@ -1,3 +1,6 @@
 ## python 101 
 
-print('hello world')
+def main ():
+	print('hello world from main function')
+	
+if __name__=='__main__' : main()
